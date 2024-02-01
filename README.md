@@ -80,8 +80,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=erbalo&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-<div align="center">
-  <img src="https://profile-counter.glitch.me/erbalo/count.svg?"  />
-</div>
 
-[![](https://visitcount.itsvg.in/api?id=erbalo&label=Profile%20Views&color=11&icon=9&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=erbalo&label=Profile%20Views&color=11&icon=5&pretty=true" alt="" />
+</a>
