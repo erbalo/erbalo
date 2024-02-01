@@ -17,11 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erbalo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
-
 ## 💻 Tech Stack:
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -71,10 +67,9 @@
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
 </div>
 
-##
- 
+<!---
 <img src="https://raw.githubusercontent.com/erbalo/erbalo/output/snake.svg" alt="Snake animation" />
-
+-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=erbalo&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
